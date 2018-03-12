@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/James/Desktop/GameVersions/(new) supernova 12-05-2017/supernova/Game1/Content/SNExplosion1.wav</SourceFile>
+  <SourceTime>2017-04-29T09:07:43.1815325+01:00</SourceTime>
+  <DestFile>C:/Users/James/Desktop/GameVersions/(new) supernova 12-05-2017/supernova/Game1/Content/bin/Windows/SNExplosion1.xnb</DestFile>
+  <DestTime>2017-05-14T09:21:11.3742005+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2016-03-30T07:36:08+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2016-03-30T07:36:08+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,386 @@
+H:\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+H:\Game1\Game1\bin\Windows\x86\Debug\Content\bgLayer1(1).xnb
+H:\Game1\Game1\bin\Windows\x86\Debug\Content\bgLayer2(1).xnb
+H:\Game1\Game1\bin\Windows\x86\Debug\Content\mainbackground(1).xnb
+H:\Game1\Game1\bin\Windows\x86\Debug\Content\shipAnimation(1).xnb
+H:\Game1\Game1\bin\Windows\x86\Debug\Game1.exe
+H:\Game1\Game1\bin\Windows\x86\Debug\Game1.pdb
+H:\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+H:\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+H:\Game1\Game1\bin\Windows\x86\Debug\SharpDX.dll
+H:\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+H:\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+H:\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+H:\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+H:\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+H:\Game1\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+H:\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+H:\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+H:\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+H:\Game1\Game1\bin\Windows\x86\Debug\SharpDX.xml
+H:\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+H:\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+H:\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+H:\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+H:\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+H:\Game1\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+H:\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+H:\Game1\Game1\obj\x86\Debug\Game1.exe
+H:\Game1\Game1\obj\x86\Debug\Game1.pdb
+H:\Games Design Tutorials and Workshops\Game1\Game1\obj\x86\Debug\Game1.exe
+H:\Games Design Tutorials and Workshops\Game1\Game1\obj\x86\Debug\Game1.pdb
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\Content\bgLayer1(1).xnb
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\Content\bgLayer2(1).xnb
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\Content\mainbackground(1).xnb
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\Content\shipAnimation(1).xnb
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\Game1.exe
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\Game1.pdb
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\SharpDX.dll
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\SharpDX.xml
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+H:\Games Design Tutorials and Workshops\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\Content\citySkylineNoSky.xnb
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\Content\mineAnimation.xnb
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\Content\enemy.xnb
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\Content\spaceship.xnb
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\Content\laser.xnb
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.wma
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.xnb
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\Content\explosion.xnb
+H:\Games Design Tutorials and Workshops\Game1\Game1\bin\Windows\x86\Debug\Content\Laser_Shoot.xnb
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\obj\x86\Debug\Game1.exe
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\Content\bgLayer1(1).xnb
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\Content\bgLayer2(1).xnb
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\Content\citySkylineNoSky.xnb
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\Content\explosion.xnb
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\Content\laser.xnb
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\Content\Laser_Shoot.xnb
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\Content\mainbackground(1).xnb
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\Content\mineAnimation.xnb
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\Content\shipAnimation(1).xnb
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\Content\spaceship.xnb
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.wma
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.xnb
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\Content\health_sq.xnb
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\Content\legend2.xnb
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\Content\shield_sq.xnb
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\Content\player.xnb
+C:\Users\James\Desktop\Game v0.01\Game1\Game1\bin\Windows\x86\Debug\Content\FullAnimation.xnb
+H:\Game v0.02\Game1\Game1\obj\x86\Debug\Game1.exe
+H:\Game v0.02\Game1\Game1\obj\x86\Debug\Game1.pdb
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.xnb
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\Content\Laser_Shoot.xnb
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\Content\shield_sq.xnb
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\Content\citySkylineNoSky.xnb
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\Content\spaceship.xnb
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\Content\shipAnimation(1).xnb
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\Content\player.xnb
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\Content\laser.xnb
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\Content\mainbackground(1).xnb
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\Content\mineAnimation.xnb
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\Content\legend2.xnb
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\Content\bgLayer2(1).xnb
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\Content\health_sq.xnb
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\Content\enemy.xnb
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\Content\FullAnimation.xnb
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\Content\explosion.xnb
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\Content\bgLayer1(1).xnb
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.wma
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\Game1.exe
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\Game1.pdb
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\SharpDX.dll
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\SharpDX.xml
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+H:\Game v0.02\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+H:\Game v0.02\Game1\Game1\bin\Windows\x86\Debug\Content\enemyShip.xnb
+C:\Users\w1605762\Desktop\Game1\Game1\obj\x86\Debug\Game1.exe
+C:\Users\w1605762\Desktop\Game1\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\Content\bgLayer1(1).xnb
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\Content\bgLayer2(1).xnb
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\Content\citySkylineNoSky.xnb
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\Content\enemyShip.xnb
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\Content\explosion.xnb
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\Content\FullAnimation.xnb
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\Content\health_sq.xnb
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\Content\laser.xnb
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\Content\Laser_Shoot.xnb
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\Content\legend2.xnb
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\Content\mainbackground(1).xnb
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\Content\mineAnimation.xnb
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\Content\player.xnb
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\Content\shield_sq.xnb
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\Content\shipAnimation(1).xnb
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\Content\spaceship.xnb
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.wma
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.xnb
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\w1605762\Desktop\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\w1605762\Desktop\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\obj\x86\Debug\Game1.exe
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\obj\x86\Debug\Game1.pdb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\bgLayer1(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\bgLayer2(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\citySkylineNoSky.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\enemy.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\enemyShip.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\explosion.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\FullAnimation.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\health_sq.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\laser.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\Laser_Shoot.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\mainbackground(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\mineAnimation.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\player.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\shield_sq.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\shipAnimation(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\spaceship.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.wma
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Game1.exe
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Game1.pdb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\scoreFont.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\labelFont.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\legend3.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\alertFont.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\obj\x86\Debug\Game1.exe
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\obj\x86\Debug\Game1.pdb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\bgLayer1(1).xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\bgLayer2(1).xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\mainbackground(1).xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\shipAnimation(1).xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\citySkylineNoSky.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\mineAnimation.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\enemy.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\spaceship.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\laser.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.wma
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\explosion.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\Laser_Shoot.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\health_sq.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\shield_sq.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\player.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\FullAnimation.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\enemyShip.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\scoreFont.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\labelFont.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\legend3.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Content\alertFont.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Game1.exe
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\Game1.pdb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.dll
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.xml
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Work\University\Game Development Group Project 1\Assignments\markos\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\obj\x86\Debug\Game1.exe
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\obj\x86\Debug\Game1.pdb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\bgLayer1(1).xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\bgLayer2(1).xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\mainbackground(1).xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\shipAnimation(1).xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\citySkylineNoSky.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\mineAnimation.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\enemy.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\spaceship.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\laser.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.wma
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\explosion.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\Laser_Shoot.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\health_sq.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\shield_sq.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\player.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\FullAnimation.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\enemyShip.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\scoreFont.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\labelFont.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\legend3.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\alertFont.xnb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Game1.exe
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Game1.pdb
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.dll
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.xml
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\obj\x86\Debug\Game1.exe
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\obj\x86\Debug\Game1.pdb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\bgLayer1(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\bgLayer2(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\mainbackground(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\shipAnimation(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\citySkylineNoSky.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\mineAnimation.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\enemy.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\spaceship.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\laser.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.wma
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\explosion.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\Laser_Shoot.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\health_sq.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\shield_sq.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\player.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\FullAnimation.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\enemyShip.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\scoreFont.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\labelFont.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\legend3.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\alertFont.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Game1.exe
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Game1.pdb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache

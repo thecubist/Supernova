@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/bgLayer1(1).png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/bgLayer2(1).png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/mainbackground(1).png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/enemy.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/laser.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/SuperNovaTheme1.wma</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/Laser_Shoot.wav</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/health_sq.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/shield_sq.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/FullAnimation.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/enemyShip.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/scoreFont.spritefont</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/labelFont.spritefont</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/legend3.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/alertFont.spritefont</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/NebulaBG1.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/NebulaBG2.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/planet1.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/planet2.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/stars1.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/stars2.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/explosionSpriteSheet.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/enemy02.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/SuperNova Logo.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/mainMenuTheme.wav</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/planet3.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/planet4.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/planet5.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/healthSpritesheet.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/pointer.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/x2Spritesheet.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/x3Spritesheet.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/x4Spritesheet.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/pauseBackdrop.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/endlessButton.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/playButton.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/endOver.png</File>
+    <File>F:/Work/University/Game Development Group Project 1/Assignments/markos/(new) supernova 12-05-2017/supernova/Game1/Content/playOver.png</File>
+  </SourceFiles>
+</SourceFileCollection>

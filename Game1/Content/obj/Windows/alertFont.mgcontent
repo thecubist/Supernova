@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>F:/Work/University/Game Development Group Project 1/Assignments/markos/v1.01 (Final Solution)/SuperNovaSolution/Game1/Content/alertFont.spritefont</SourceFile>
+  <SourceTime>2017-05-14T11:53:54+01:00</SourceTime>
+  <DestFile>F:/Work/University/Game Development Group Project 1/Assignments/markos/v1.01 (Final Solution)/SuperNovaSolution/Game1/Content/bin/Windows/alertFont.xnb</DestFile>
+  <DestTime>2017-05-18T16:10:38+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T07:36:08+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T07:36:08+01:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

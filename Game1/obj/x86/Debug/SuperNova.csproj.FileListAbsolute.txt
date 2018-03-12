@@ -1,0 +1,781 @@
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\bgLayer1(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\bgLayer2(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\mainbackground(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\shipAnimation(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\citySkylineNoSky.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\mineAnimation.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\enemy.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\spaceship.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\laser.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.wma
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\explosion.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\Laser_Shoot.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\health_sq.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\shield_sq.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\player.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\FullAnimation.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\enemyShip.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\scoreFont.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\labelFont.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\legend3.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\alertFont.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Game1.exe
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Game1.pdb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\obj\x86\Debug\SuperNova.csprojResolveAssemblyReference.cache
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\obj\x86\Debug\Game1.exe
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\obj\x86\Debug\Game1.pdb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\NebulaBG1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\NebulaBG2.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\planet1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\planet2.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\stars1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\stars2.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\supernova\Game1\bin\Windows\x86\Debug\Content\explosionSpriteSheet.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\obj\x86\Debug\Game1.exe
+C:\Users\James\Desktop\GameVersions\supernova\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\alertFont.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\bgLayer1(1).xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\bgLayer2(1).xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\citySkylineNoSky.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\enemyShip.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\explosion.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\explosionSpriteSheet.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\FullAnimation.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\health_sq.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\labelFont.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\laser.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\Laser_Shoot.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\legend3.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\mainbackground(1).xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\mineAnimation.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\NebulaBG1.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\NebulaBG2.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\planet1.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\planet2.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\player.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\scoreFont.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\shield_sq.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\shipAnimation(1).xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\spaceship.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\stars1.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\stars2.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.wma
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\James\Desktop\GameVersions\supernova\Game1\obj\x86\Debug\SuperNova.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\playButton.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\enemy02.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaLogo.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNova Logo.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\mainMenuTheme.xnb
+C:\Users\James\Desktop\GameVersions\supernova\Game1\bin\Windows\x86\Debug\Content\mainMenuTheme.wma
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\obj\x86\Debug\Game1.exe
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaLogo.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\alertFont.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\bgLayer1(1).xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\bgLayer2(1).xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\citySkylineNoSky.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\enemy02.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\enemyShip.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\explosion.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\explosionSpriteSheet.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\FullAnimation.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\health_sq.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\labelFont.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\laser.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\Laser_Shoot.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\legend3.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\mainbackground(1).xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\mainMenuTheme.wma
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\mainMenuTheme.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\mineAnimation.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\NebulaBG1.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\NebulaBG2.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\planet1.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\planet2.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\playButton.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\player.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\scoreFont.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\shield_sq.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\shipAnimation(1).xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\spaceship.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\stars1.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\stars2.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNova Logo.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.wma
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\obj\x86\Debug\SuperNova.csprojResolveAssemblyReference.cache
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\planet3.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\planet4.xnb
+C:\Users\w1591855\Desktop\V0.06\supernova\Game1\bin\Windows\x86\Debug\Content\planet5.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\obj\x86\Debug\Game1.exe
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\alertFont.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\bgLayer1(1).xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\bgLayer2(1).xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\enemy02.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\enemyShip.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\explosionSpriteSheet.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\FullAnimation.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\health_sq.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\labelFont.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\laser.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\Laser_Shoot.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\legend3.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\mainbackground(1).xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\mainMenuTheme.wma
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\mainMenuTheme.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\NebulaBG1.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\NebulaBG2.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\planet1.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\planet2.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\planet3.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\planet4.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\planet5.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\playButton.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\scoreFont.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\shield_sq.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\stars1.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\stars2.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNova Logo.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaLogo.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.wma
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\obj\x86\Debug\SuperNova.csprojResolveAssemblyReference.cache
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\healthSpritesheet.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\pointer.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\x2Spritesheet.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\x3Spritesheet.xnb
+C:\Users\w1605762\Desktop\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\x4Spritesheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\obj\x86\Debug\Game1.exe
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\obj\x86\Debug\Game1.pdb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaLogo.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\alertFont.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\bgLayer1(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\bgLayer2(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\enemy.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\enemy02.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\enemyShip.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\explosionSpriteSheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\FullAnimation.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\healthSpritesheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\health_sq.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\labelFont.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\laser.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\Laser_Shoot.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\legend3.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\mainbackground(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\mainMenuTheme.wma
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\mainMenuTheme.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\NebulaBG1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\NebulaBG2.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\planet1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\planet2.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\planet3.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\planet4.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\planet5.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\playButton.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\pointer.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\scoreFont.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\shield_sq.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\stars1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\stars2.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNova Logo.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.wma
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\x2Spritesheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\x3Spritesheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Content\x4Spritesheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Game1.exe
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\Game1.pdb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\V0.07\supernova\Game1\obj\x86\Debug\SuperNova.csprojResolveAssemblyReference.cache
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\obj\x86\Debug\Game1.exe
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\obj\x86\Debug\Game1.pdb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaLogo.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\alertFont.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\bgLayer1(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\bgLayer2(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\enemy.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\enemy02.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\enemyShip.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\explosionSpriteSheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\FullAnimation.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\healthSpritesheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\health_sq.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\labelFont.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\laser.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\Laser_Shoot.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\legend3.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\mainbackground(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\mainMenuTheme.wma
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\mainMenuTheme.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\NebulaBG1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\NebulaBG2.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\planet1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\planet2.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\planet3.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\planet4.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\planet5.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\playButton.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\pointer.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\scoreFont.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\shield_sq.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\stars1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\stars2.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNova Logo.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.wma
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\x2Spritesheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\x3Spritesheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\x4Spritesheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Game1.exe
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\Game1.pdb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 11-05-2017\supernova\Game1\obj\x86\Debug\SuperNova.csprojResolveAssemblyReference.cache
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\obj\x86\Debug\Game1.exe
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\obj\x86\Debug\Game1.pdb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaLogo.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\alertFont.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\bgLayer1(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\bgLayer2(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\enemy.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\enemy02.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\enemyShip.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\explosionSpriteSheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\FullAnimation.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\healthSpritesheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\health_sq.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\labelFont.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\laser.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\Laser_Shoot.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\legend3.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\mainbackground(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\mainMenuTheme.wma
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\mainMenuTheme.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\NebulaBG1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\NebulaBG2.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\planet1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\planet2.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\planet3.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\planet4.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\planet5.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\playButton.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\pointer.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\scoreFont.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\shield_sq.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\stars1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\stars2.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNova Logo.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.wma
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\x2Spritesheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\x3Spritesheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\x4Spritesheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\pauseBackdrop.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Game1.exe
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Game1.pdb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\obj\x86\Debug\SuperNova.csprojResolveAssemblyReference.cache
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\endlessButton.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\endOver.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\playOver.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\obj\x86\Debug\Game1.exe
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaLogo.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\alertFont.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\bgLayer1(1).xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\bgLayer2(1).xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\endlessButton.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\endOver.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\explosionSpriteSheet.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\FullAnimation.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\healthSpritesheet.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\health_sq.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\labelFont.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\laser.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\Laser_Shoot.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\legend3.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\mainbackground(1).xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\mainMenuTheme.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\NebulaBG1.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\NebulaBG2.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\pauseBackdrop.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\planet1.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\planet2.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\planet3.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\planet4.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\planet5.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\playButton.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\playOver.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\pointer.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\scoreFont.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\shield_sq.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\stars1.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\stars2.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNova Logo.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.wma
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\x2Spritesheet.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\x3Spritesheet.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\x4Spritesheet.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\obj\x86\Debug\SuperNova.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\mainMenuTheme.wma
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\tutButton.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\tutOver.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\exitButton.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\exitOver.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\MenuButton.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\menuOver.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\SNExplosion1.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\SNPowerup1.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\SNSelect1.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\creditsButton.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\creditsOver.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\ScrapBG1.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\ScrapBG2.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\enemy01Animation.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\enemy02Animation.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\EnemyLaserOrb.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\SNExplosion2.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\SNExplosion3.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\SNLazer2.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\SNLazerEnemy.xnb
+C:\Users\James\Desktop\GameVersions\(new) supernova 12-05-2017\supernova\Game1\bin\Windows\x86\Debug\Content\SNPowerup2.xnb
+C:\Users\James\Desktop\supernova\Game1\obj\x86\Debug\Game1.exe
+C:\Users\James\Desktop\supernova\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\SNExplosion1.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\SNExplosion2.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\SNPowerup1.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaLogo.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\alertFont.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\bgLayer1(1).xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\bgLayer2(1).xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\creditsButton.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\creditsOver.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\endlessButton.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\endOver.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\enemy01Animation.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\enemy02Animation.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\EnemyLaserOrb.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\exitButton.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\exitOver.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\explosionSpriteSheet.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\FullAnimation.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\healthSpritesheet.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\health_sq.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\labelFont.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\laser.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\Laser_Shoot.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\legend3.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\mainbackground(1).xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\mainMenuTheme.wma
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\mainMenuTheme.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\MenuButton.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\menuOver.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\NebulaBG1.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\NebulaBG2.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\pauseBackdrop.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\planet1.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\planet2.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\planet3.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\planet4.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\planet5.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\playButton.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\playOver.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\pointer.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\scoreFont.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\ScrapBG1.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\ScrapBG2.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\shield_sq.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\SNExplosion3.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\SNLazer2.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\SNLazerEnemy.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\SNPowerup2.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\SNSelect1.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\stars1.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\stars2.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNova Logo.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.wma
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\tutButton.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\tutOver.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\x2Spritesheet.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\x3Spritesheet.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Content\x4Spritesheet.xnb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\James\Desktop\supernova\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\James\Desktop\supernova\Game1\obj\x86\Debug\SuperNova.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\supernova - Copy\Game1\obj\x86\Debug\Game1.exe
+C:\Users\James\Desktop\supernova - Copy\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\SNExplosion1.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\SNExplosion2.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\SNPowerup1.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\SuperNovaLogo.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\alertFont.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\bgLayer1(1).xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\bgLayer2(1).xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\creditsButton.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\creditsOver.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\endlessButton.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\endOver.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\enemy01Animation.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\enemy02Animation.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\EnemyLaserOrb.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\exitButton.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\exitOver.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\explosionSpriteSheet.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\FullAnimation.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\healthSpritesheet.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\health_sq.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\labelFont.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\laser.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\Laser_Shoot.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\legend3.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\mainbackground(1).xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\mainMenuTheme.wma
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\mainMenuTheme.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\MenuButton.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\menuOver.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\NebulaBG1.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\NebulaBG2.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\pauseBackdrop.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\planet1.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\planet2.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\planet3.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\planet4.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\planet5.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\playButton.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\playOver.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\pointer.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\scoreFont.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\ScrapBG1.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\ScrapBG2.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\shield_sq.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\SNExplosion3.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\SNLazer2.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\SNLazerEnemy.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\SNPowerup2.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\SNSelect1.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\stars1.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\stars2.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\SuperNova Logo.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.wma
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\tutButton.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\tutOver.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\x2Spritesheet.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\x3Spritesheet.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\x4Spritesheet.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\James\Desktop\supernova - Copy\Game1\obj\x86\Debug\SuperNova.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Game1.exe.manifest
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Game1.application
+C:\Users\James\Desktop\supernova - Copy\Game1\obj\x86\Debug\Game1.exe.manifest
+C:\Users\James\Desktop\supernova - Copy\Game1\obj\x86\Debug\Game1.application
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\lifeSpritesheet.xnb
+C:\Users\James\Desktop\supernova - Copy\Game1\bin\Windows\x86\Debug\Content\shieldSpritesheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\obj\x86\Debug\Game1.exe
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\obj\x86\Debug\Game1.pdb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\SNPowerup1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\SuperNovaLogo.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\SNExplosion1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\SNExplosion2.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\SuperNova Logo.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\x2Spritesheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\tutButton.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\SNSelect1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\x3Spritesheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\x4Spritesheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\tutOver.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\SNLazer2.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\bgLayer2(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\planet3.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\SNLazerEnemy.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\NebulaBG2.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\bgLayer1(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\mainbackground(1).xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\stars2.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\SNExplosion3.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\pauseBackdrop.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\stars1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\SNPowerup2.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\mainMenuTheme.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\playOver.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\lifeSpritesheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\alertFont.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\planet4.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\endOver.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\shield_sq.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\enemy01Animation.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\ScrapBG2.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\Laser_Shoot.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\planet1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\healthSpritesheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\shieldSpritesheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\explosionSpriteSheet.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\SuperNovaTheme1.wma
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\mainMenuTheme.wma
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\legend3.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\exitButton.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\enemy.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\menuOver.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\scoreFont.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\health_sq.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\planet2.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\creditsOver.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\EnemyLaserOrb.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\labelFont.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\planet5.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\endlessButton.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\exitOver.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\laser.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\creditsButton.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\playButton.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\MenuButton.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\NebulaBG1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\enemy02Animation.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\FullAnimation.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\pointer.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Content\ScrapBG1.xnb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Game1.exe.manifest
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Game1.application
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Game1.exe
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\Game1.pdb
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\SharpDX.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\SharpDX.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\obj\x86\Debug\SuperNova.csprojResolveAssemblyReference.cache
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\obj\x86\Debug\Game1.exe.manifest
+F:\Work\University\Game Development Group Project 1\Assignments\markos\v1.01 (Final Solution)\SuperNovaSolution\Game1\obj\x86\Debug\Game1.application

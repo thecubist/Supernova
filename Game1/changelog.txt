@@ -1,0 +1,8 @@
+---------- 10/05/2017 ----------
+- modified the gui so the gamepad is checked on every pause update call
+- changelog was added to the project files
+- namespace was changed to SuperNova
+- project name was changed to SuperNova
+- explosion texture and explosion manager were updated using james' project version v0.05
+- BackgroundItemsManager and Planet classes were added from james' project version v0.05
+	-

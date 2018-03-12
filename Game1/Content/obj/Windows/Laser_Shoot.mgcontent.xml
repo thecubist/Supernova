@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/w1591855/Desktop/V0.06/supernova/Game1/Content/Laser_Shoot.wav</SourceFile>
+  <SourceTime>2017-05-11T10:27:43.0965841+01:00</SourceTime>
+  <DestFile>C:/Users/w1591855/Desktop/V0.06/supernova/Game1/Content/bin/Windows/Laser_Shoot.xnb</DestFile>
+  <DestTime>2017-05-11T11:28:11.9433049+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2016-03-30T07:36:08+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2016-03-30T07:36:08+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

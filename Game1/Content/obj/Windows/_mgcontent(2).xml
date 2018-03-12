@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>H:/Games Design Tutorials and Workshops/Game1/Game1/Content/bgLayer1(1).png</File>
+    <File>H:/Games Design Tutorials and Workshops/Game1/Game1/Content/bgLayer2(1).png</File>
+    <File>H:/Games Design Tutorials and Workshops/Game1/Game1/Content/mainbackground(1).png</File>
+    <File>H:/Games Design Tutorials and Workshops/Game1/Game1/Content/shipAnimation(1).png</File>
+    <File>H:/Games Design Tutorials and Workshops/Game1/Game1/Content/citySkylineNoSky.png</File>
+    <File>H:/Games Design Tutorials and Workshops/Game1/Game1/Content/mineAnimation.png</File>
+    <File>H:/Games Design Tutorials and Workshops/Game1/Game1/Content/enemy.png</File>
+    <File>H:/Games Design Tutorials and Workshops/Game1/Game1/Content/spaceship.png</File>
+    <File>H:/Games Design Tutorials and Workshops/Game1/Game1/Content/laser.png</File>
+    <File>H:/Games Design Tutorials and Workshops/Game1/Game1/Content/SuperNovaTheme1.wma</File>
+    <File>H:/Games Design Tutorials and Workshops/Game1/Game1/Content/explosion.png</File>
+    <File>H:/Games Design Tutorials and Workshops/Game1/Game1/Content/Laser_Shoot.wav</File>
+  </SourceFiles>
+</SourceFileCollection>
